@@ -13,7 +13,7 @@ If you are a user of Water Reminder, we may collect information that you provide
 
 B.Information automatically collected when you use Water Reminder
 
-We automatically collect information about you when you use Water Reminder. We will collect information including, but not limited to: your mobile deviceâ€™s brand, model, operating system, resolution, screen size, system version, internet connection.
+We automatically collect information about you when you use Water Reminder. We will collect information including, but not limited to: your mobile device's brand, model, operating system, resolution, screen size, system version, internet connection.
 
 
 
