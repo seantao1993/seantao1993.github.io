@@ -1,4 +1,4 @@
-## Privacy Policy
+# Privacy Policy
 
 
 Water Reminder  collects information from you in order to provide better service and a better user experience. Your privacy is a top priority to us, and this Privacy Policy explains how we collect, use, and protect your information.
