@@ -43,11 +43,11 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 V. Permissions used by Water Reminder
 
-1. Full network access and receive data from Internet
+A. Full network access and receive data from Internet
 
 This permission allows Water Reminder to access the device network for functions including downloading wallpapers and accessing app classification labels.
 
-2. View network connections
+B. View network connections
 
 This permission is used in Water Reminder settings in order to view network connections.
 
